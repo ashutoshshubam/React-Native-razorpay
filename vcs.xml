@@ -1,0 +1,21 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gabriprat/rely-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="ashutosh.patel@brainmobi.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ashutoshpatel27@bitbucket.org/brainmobi_dev/rely_reactnative.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
+  </component>
+</application>
