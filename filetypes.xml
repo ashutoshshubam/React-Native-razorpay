@@ -9,6 +9,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
